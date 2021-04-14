@@ -62,7 +62,8 @@ function App() {
   const sizes = {
     blackacrylic: [{ len: 2.8, prise: 183, len2: 67000 }],
     clearacrylic: [{ len: 2.2, prise: 150, len2: 50000 },
-    { len: 2.1, prise: 150, len2: 50000 }],
+    { len: 2.1, prise: 150, len2: 50000 },
+    { len: 2.3, prise: 170, len2: 44000 }],
     whiteacrylic: [{ len: 2.8, prise: 183, len2: 67000 }],
     mdf: [{ len: 2.7, prise: 15.75, len2: 89250 },
     { len: 4, prise: 17.75, len2: 73500 }]
