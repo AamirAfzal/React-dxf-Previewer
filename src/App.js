@@ -507,11 +507,11 @@ function App() {
           </Form.Item>
           <Form.Item>
 
-            <h4 style={{ color: "red" }}> Materyal Fiyat: <span>{materialPirceTotal}TL</span></h4>
-            <h4 style={{ color: "red" }}> Materyal Fiyat İle VAT: <span>{taxPriceTotal}TL</span></h4>
+            <h4 style={{ color: "gray" }}> Materyal Fiyat: <span>{materialPirceTotal}TL</span></h4>
+            <h4 style={{ color: "gray" }}> Materyal Fiyat İle VAT: <span>{taxPriceTotal}TL</span></h4>
             {/* <h4 style={{ color: "purple" }}>Material Price With VAT And Profit: {profitPriceTotal.toFixed(2)}TL</h4> */}
             {/* <h4 style={{ color: "purple" }}>Total Price Without Shipment: {totalPrice.toFixed(2)}TL</h4> */}
-            <h4 style={{ color: "red" }}>Toplam Fiyat İle gönderi: {totalPriceWithShipment}TL</h4>
+            <h4 style={{ color: "gray" }}>Toplam Fiyat İle gönderi: {totalPriceWithShipment}TL</h4>
 
           </Form.Item>
 
