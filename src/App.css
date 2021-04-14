@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+svg {
+  width: unset;
+  height: 80%;
+  overflow: overlay !important;
+  stroke: #0055ff;
+}
+label .ab{
+   
+    background: red; 
+    display: table;
+    color: #fff;
+     }

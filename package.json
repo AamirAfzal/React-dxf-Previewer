@@ -6,9 +6,16 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "antd": "^4.15.0",
+    "dxf": "^4.4.4",
+    "dxf-parser": "^1.0.0-alpha.2",
+    "dxf-viewer": "^1.0.7",
+    "js-base64": "^3.6.0",
     "react": "^17.0.2",
+    "react-credit-cards": "^0.8.3",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "three-dxf": "^1.0.1",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
